@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char *ssid =  "iPhone 12 Pro";  
-const char *pass =  "kangyichen";
+const char *ssid =  ""; // SSID here 
+const char *pass =  ""; // Password here
 
 void setup() 
 {
