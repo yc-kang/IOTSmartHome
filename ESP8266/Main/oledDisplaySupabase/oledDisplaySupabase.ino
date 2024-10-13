@@ -94,8 +94,8 @@ MQ135 mq135_sensor(MQ_PIN);
 DHT dht(DHT_PIN, DHT_TYPE);
 
 // Supabase URL and Anon key
-String supabase_url = "https://qxkddqiixegfvuccrfet.supabase.co";
-String anon_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF4a2RkcWlpeGVnZnZ1Y2NyZmV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTYzMzAwMDgsImV4cCI6MjAxMTkwNjAwOH0.KDKt-sG7X1YiUgOOQD6i8Vbg_2Nfahz2jMbntoBfw9M";
+String supabase_url = ""; // URL here
+String anon_key = "";     // Anon key here
 
 // Supabase retrive table data
 String table_name = "living_room";  // Table name
@@ -112,10 +112,8 @@ int current_id_2=51;
 int current_id_3=101;
 
 // WiFi credentials (SSID and Password)
-//const char *ssid =  "iPhone 12 Pro";  
-//const char *pass =  "kangyichen";
-const char *ssid =  "jc&yc home";  
-const char *pass =  "09021128";
+const char *ssid =  "";  // SSID here
+const char *pass =  "";  // password here
 
 // Supabase auto update info
 unsigned long previousMillis = 0;
