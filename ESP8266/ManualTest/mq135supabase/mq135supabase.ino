@@ -14,8 +14,8 @@ Supabase db;
 MQ135 mq135_sensor(PIN_MQ135);
 
 // Supabase URL and Anon key
-String supabase_url = "https://qxkddqiixegfvuccrfet.supabase.co";
-String anon_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF4a2RkcWlpeGVnZnZ1Y2NyZmV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTYzMzAwMDgsImV4cCI6MjAxMTkwNjAwOH0.KDKt-sG7X1YiUgOOQD6i8Vbg_2Nfahz2jMbntoBfw9M";
+String supabase_url = "";
+String anon_key = "";
 
 // Supabase retrive table data
 String table_name = "living_room_2";  // Table name
