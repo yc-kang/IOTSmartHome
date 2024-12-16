@@ -20,3 +20,8 @@ The design can be access [here](Altium_NewProject_Schematic_PCB.zip), can be imp
 Prototype
 <div style="vertical-align:middle"><img src="images/Prototype.png" alt="Dataset" width="300px" text-align="center">
 </div>
+
+## Code Layout
+The code is organized as follows:
+- ESP8266/Main/ - Main code
+- ESP8266/ManualTest/ - Testing
