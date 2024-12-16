@@ -9,6 +9,8 @@ This is a ESP8266-based system
 ## Circuits & PCB
 Schematics, PCBs are designed via [EasyEDA](https://pro.easyeda.com/editor), based on an open-sourced project [this](https://oshwhub.com/zijunchen/esp8266-extension_copy_copy_copy_copy_copy_copy_copy_copy).
 
+The design can be access [here](Altium_NewProject_Schematic_PCB.zip)
+
 <div style="vertical-align:middle"><img src="images/Schematic.png" alt="Dataset" width="400px" text-align="center">
 </div>
 
