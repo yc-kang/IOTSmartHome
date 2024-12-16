@@ -23,5 +23,6 @@ Prototype
 
 ## Code Layout
 The code is organized as follows:
-- ESP8266/Main/ - Main code
-- ESP8266/ManualTest/ - Testing
+- ESP8266/Main/ - Main code (ESP8266)
+- ESP8266/ManualTest/ - Testing (ESP8266)
+- AndroidApp - Flutter (Designed via FlutterFlow)
