@@ -3,7 +3,9 @@
 ## System Architecture
 This is a ESP8266-based system
 
-<div style="vertical-align:middle"><img src="images/Diagram.png" alt="Dataset" width="550px" text-align="center">
+<div style="vertical-align:middle"><img src="images/Diagram.png" alt="Dataset" width="500px" text-align="center">
+</div>
+<div style="vertical-align:middle"><img src="images/Diagram2.png" alt="Dataset" width="500px" text-align="center">
 </div>
 
 ## Circuits & PCB
@@ -18,7 +20,7 @@ The design can be access [here](Altium_NewProject_Schematic_PCB.zip), can be imp
 </div>
 
 Prototype
-<div style="vertical-align:middle"><img src="images/Prototype.png" alt="Dataset" width="300px" text-align="center">
+<div style="vertical-align:middle"><img src="images/Prototype.png" alt="Dataset" width="350px" text-align="center">
 </div>
 
 ## Code Layout
