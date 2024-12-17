@@ -1,7 +1,7 @@
 # IOT Smart Home Project
  
 ## System Architecture
-This is a ESP8266-based system
+This is a ESP8266-based system, with smart home control capabilities
 
 <div style="vertical-align:middle"><img src="images/Diagram.png" alt="Dataset" width="500px" text-align="center">
 </div>
