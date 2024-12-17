@@ -23,6 +23,12 @@ Prototype
 
 ## Code Layout
 The code is organized as follows:
-- ESP8266/Main/ - Main code (ESP8266)
-- ESP8266/ManualTest/ - Testing (ESP8266)
-- AndroidApp - Flutter (Designed via FlutterFlow)
+- ESP8266/Main/ - Main code (ESP8266, in C)
+- ESP8266/ManualTest/ - Testing (ESP8266, in C)
+- AndroidApp - Flutter (in Dart)
+
+## Android App
+Designed via [FlutterFlow](https://www.flutterflow.io/), the app can be access [here](https://app.flutterflow.io/project/hotel-app-eamssf)  
+*Currently in beta, not optimized for TabletView, WebApp yet
+<div style="vertical-align:middle"><img src="images/AppDesign.png" alt="Dataset" width="550px" text-align="center">
+</div>
