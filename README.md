@@ -32,3 +32,6 @@ Designed via [FlutterFlow](https://www.flutterflow.io/), the app can be access [
 *Currently in beta, not optimized for TabletView, WebApp yet
 <div style="vertical-align:middle"><img src="images/AppDesign.png" alt="Dataset" width="550px" text-align="center">
 </div>
+
+It is **recommended** to edit in FlutterFlow directly, as oppose to import into Flutter  
+Currently, the database is setup on Supabase, it's recommended to switch to Firebase, for better performance
