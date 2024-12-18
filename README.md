@@ -1,7 +1,9 @@
 # IOT Smart Home Project
  
 ## System Architecture
-This is a ESP8266-based system, with smart home control capabilities
+This is a ESP8266-based system, with smart home control capabilities  
+
+Check out our [presentation](Presentation.pdf) and [report](Report.pdf)
 
 <div style="vertical-align:middle"><img src="images/Diagram.png" alt="Dataset" width="500px" text-align="center">
 </div>
@@ -9,9 +11,10 @@ This is a ESP8266-based system, with smart home control capabilities
 </div>
 
 ## Circuits & PCB
-Schematics, PCBs are designed via [EasyEDA](https://pro.easyeda.com/editor), based on an open-sourced project [this](https://oshwhub.com/zijunchen/esp8266-extension_copy_copy_copy_copy_copy_copy_copy_copy).
+Schematics, PCBs are designed via [EasyEDA](https://pro.easyeda.com/editor), referenced on [this](https://oshwhub.com/zijunchen/esp8266-extension_copy_copy_copy_copy_copy_copy_copy_copy)
 
-The design can be access [here](Altium_NewProject_Schematic_PCB.zip), can be imported into AD or EasyEDA
+The design can be access [here](Altium_NewProject_Schematic_PCB.zip), which can be imported into EasyEDA or Atrium Designer (AD)  
+**Note**: Schematic, PCB, BOM List are included
 
 <div style="vertical-align:middle"><img src="images/Schematic.png" alt="Dataset" width="400px" text-align="center">
 </div>
