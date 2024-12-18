@@ -26,6 +26,10 @@ Prototype
 <div style="vertical-align:middle"><img src="images/Prototype.png" alt="Dataset" width="350px" text-align="center">
 </div>
 
+Demo
+<div style="vertical-align:middle"><img src="images/Demo.gif" alt="Dataset" width="350px" text-align="center">
+</div>
+
 ## Code Layout
 The code is organized as follows:
 - ESP8266/Main/ - Main code (ESP8266, in C)
