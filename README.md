@@ -43,4 +43,6 @@ Designed via [FlutterFlow](https://www.flutterflow.io/), the app can be access [
 </div>
 
 It is **recommended** to edit in FlutterFlow directly, as oppose to import into Flutter  
+
+## Database
 Currently, the database is setup on Supabase, it's recommended to switch to Firebase, for better performance
